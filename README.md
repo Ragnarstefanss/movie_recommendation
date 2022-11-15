@@ -10,5 +10,5 @@ Built using the Netflix Prize data dataset
 
 # How to run
 1. First create a folder named 'data' and inside that folder create a subdirectory named 'original' (e.g. ./data/original)
-    1.1 Download ( https://www.kaggle.com/netflix-inc/netflix-prize-data ) and put files inside 'original'
-    1.2 Run first cell in 'main.ipynb' with NetflixData.create_files() uncommented
+2. Download ( https://www.kaggle.com/netflix-inc/netflix-prize-data ) and put files inside 'original'
+3. Run first cell in 'main.ipynb' with NetflixLoadData.first_time_running(max_files=4) uncommented
