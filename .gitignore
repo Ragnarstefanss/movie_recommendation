@@ -1,1 +1,10 @@
 data/
+.DS_Store
+.ipynb_checkpoints/
+pickle/
+.vscode/
+before pull/
+__pycache__/
+ml-latest-small/
+data/.DS_Store
+new/
