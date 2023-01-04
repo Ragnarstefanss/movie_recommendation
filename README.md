@@ -5,7 +5,7 @@ Built using the Netflix Prize data dataset
  1. [Netflix Analysis]
  2. [Netflix Recommendation]
 
-[Netflix Analysis]: https://github.com/Ragnarstefanss/Netflix-Analysis
+[Netflix Analysis]: https://github.com/Ragnarstefanss/github_cleanup/tree/main/datacamp/Netflix-Analysis
 [Netflix Recommendation]: https://github.com/Ragnarstefanss/netflix-recommendation
 
 # How to run
